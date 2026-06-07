@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&width=700&lines=Flutter+%26+Dart+Developer+%F0%9F%93%B1;Firebase+%2B+SQLite+Architect;On-Device+AI+with+Google+ML+Kit+%F0%9F%A4%96;Digital+Content+%26+AI+Creator;Open+to+Internships+%26+Collabs+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&width=700&lines=Flutter+%26+Dart+Developer;Firebase+%2B+SQLite+Architect;On-Device+AI+with+Google+ML+Kit;Digital+Content+%26+AI+Creator;Open+to+Internships+%26+Collabs)](https://git.io/typing-svg)
 
 <br/>
 
@@ -34,7 +34,7 @@
 ```
 Name     →  Dinsara Semitha
 Age      →  19
-Location →  Colombo / Meegoda, Sri Lanka 🇱🇰
+Location →  Colombo / Meegoda, Sri Lanka
 ```
 
 **University**
@@ -49,17 +49,17 @@ Focus: Mobile systems & distributed architecture
 
 **Specializes in**
 ```
-› Flutter & Dart mobile development
-› On-device AI & OCR (Google ML Kit)
-› Real-time Firebase architectures
-› AI-driven content pipelines
+> Flutter & Dart mobile development
+> On-device AI & OCR (Google ML Kit)
+> Real-time Firebase architectures
+> AI-driven content pipelines
 ```
 
 **Beyond code**
 ```
-› Custom PC building (ASUS & AMD)
-› Gaming: Rocket League & Action-Adventure
-› Channels: LionTen LK · LionReel · LionTunes
+> Custom PC building (ASUS & AMD)
+> Gaming: Rocket League & Action-Adventure
+> Channels: LionTen LK / LionReel / LionTunes
 ```
 
 </td>
@@ -88,9 +88,9 @@ Focus: Mobile systems & distributed architecture
 **Design & Tools**
 
 ![Figma](https://img.shields.io/badge/Figma-2a0a1a?style=for-the-badge&logo=figma&logoColor=f9a8d4)
-![Canva](https://img.shields.io/badge/Canva-002a2a?style=for-the-badge&logo=canva&logoColor=5eead4)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-0c2030?style=for-the-badge&logo=wordpress&logoColor=67e8f9)
-![ML Kit](https://img.shields.io/badge/Google_ML_Kit-0a2a1a?style=for-the-badge&logo=google&logoColor=34d399)
+![Google ML Kit](https://img.shields.io/badge/Google_ML_Kit-0a2a1a?style=for-the-badge&logo=google&logoColor=34d399)
 
 </div>
 
@@ -102,7 +102,7 @@ Focus: Mobile systems & distributed architecture
 <tr>
 <td width="50%">
 
-### 🚌 Bus Lanka
+### Bus Lanka
 **Smart Public Transit Platform**
 
 A comprehensive **three-module** mobile transit app with real-time dedicated architectures for Admins, Drivers, and Passengers across Sri Lanka.
@@ -116,7 +116,7 @@ A comprehensive **three-module** mobile transit app with real-time dedicated arc
 </td>
 <td width="50%">
 
-### 💰 Wira App
+### Wira App
 **Smart Expense Intelligence**
 
 Offline-capable expense tracker with a **Behavioral Insights Engine** and automated OCR receipt scanning powered by Google ML Kit.
@@ -132,11 +132,11 @@ Offline-capable expense tracker with a **Behavioral Insights Engine** and automa
 <tr>
 <td colspan="2">
 
-### 🎨 Digital Branding — Mustard Seeds International
+### Digital Branding — Mustard Seeds International
 Production-ready web templates and custom logo/branding assets developed during a specialized internship. Improved client visual identity through cohesive design systems.
 
 ![WordPress](https://img.shields.io/badge/WordPress-0c2030?style=flat-square&logo=wordpress&logoColor=67e8f9)
-![Canva](https://img.shields.io/badge/Canva-002a2a?style=flat-square&logo=canva&logoColor=5eead4)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 &nbsp; **Role:** Web Design Trainee Intern
 
 </td>
@@ -148,21 +148,21 @@ Production-ready web templates and custom logo/branding assets developed during 
 ## 💼 Experience
 
 ```
-🏢  Web Design Trainee Intern                      [ 2024 ]
-    Mustard Seeds International
-    ├── Developed production-ready web templates using WordPress
-    └── Designed customized branding assets & logos for clients
+Web Design Trainee Intern                          [ 2024 ]
+Mustard Seeds International
+├── Developed production-ready web templates using WordPress
+└── Designed customized branding assets & logos for clients
 
-🎬  Digital Content & Asset Creator               [ Ongoing ]
-    Freelance / LionTen LK · LionReel · LionTunes
-    ├── AI-generated assets submitted to Adobe Stock & Wirestock
-    ├── Manage branding, automation & strategy for 3 channels
-    └── Pipelines: Make · CapCut · OBS Studio · Google Veo 3
+Digital Content & Asset Creator                   [ Ongoing ]
+Freelance / LionTen LK · LionReel · LionTunes
+├── AI-generated assets submitted to Adobe Stock & Wirestock
+├── Manage branding, automation & strategy for 3 channels
+└── Pipelines: Make · CapCut · OBS Studio · Google Veo 3
 
-🎓  BSc Software Engineering — 3rd Year           [ Present ]
-    NSBM Green University, Sri Lanka 🇱🇰
-    ├── Focus: Mobile systems & distributed architecture
-    └── Projects: Bus Lanka · Wira App (production-grade)
+BSc Software Engineering — 3rd Year               [ Present ]
+NSBM Green University, Sri Lanka
+├── Focus: Mobile systems & distributed architecture
+└── Projects: Bus Lanka · Wira App (production-grade)
 ```
 
 ---
@@ -198,7 +198,7 @@ Production-ready web templates and custom logo/branding assets developed during 
 
 <div align="center">
 
-### 🤝 Let's Build Something Together
+### Let's Build Something Together
 
 [![Email](https://img.shields.io/badge/Shoot%20Me%20An%20Email-161b22?style=for-the-badge&logo=gmail&logoColor=fca5a5)](mailto:dinsarasemitha06@gmail.com)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=93c5fd)](https://www.linkedin.com/in/dinsara-semitha-6a310027b/)
