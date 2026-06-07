@@ -88,7 +88,7 @@ Focus: Mobile systems & distributed architecture
 **Design & Tools**
 
 ![Figma](https://img.shields.io/badge/Figma-2a0a1a?style=for-the-badge&logo=figma&logoColor=f9a8d4)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-002a2a?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MCA1MCI+PHBhdGggZmlsbD0iIzVlZWFkNCIgZD0iTTI1IDVDMTQgNSA1IDE0IDUgMjVzOSAyMCAyMCAyMCAyMC05IDIwLTIwUzM2IDUgMjUgNXptMCAzNmMtOC44IDAtMTYtNy4yLTE2LTE2UzE2LjIgOSAyNSA5czE2IDcuMiAxNiAxNi03LjIgMTYtMTYgMTZ6bTYtMjJjMCAyLjItMS44IDQtNCA0cy00LTEuOC00LTQgMS44LTQgNC00IDQgMS44IDQgNHoiLz48L3N2Zz4=&logoColor=5eead4)
 ![WordPress](https://img.shields.io/badge/WordPress-0c2030?style=for-the-badge&logo=wordpress&logoColor=67e8f9)
 ![Google ML Kit](https://img.shields.io/badge/Google_ML_Kit-0a2a1a?style=for-the-badge&logo=google&logoColor=34d399)
 
@@ -171,26 +171,11 @@ NSBM Green University, Sri Lanka
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dinsara0611&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=161b22&title_color=7c3aed&icon_color=06b6d4&text_color=94a3b8&ring_color=7c3aed"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinsara0611&layout=compact&theme=tokyonight&hide_border=true&bg_color=161b22&title_color=7c3aed&text_color=94a3b8"/>
-
-<br/>
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=dinsara0611&theme=tokyonight&hide_border=true&background=161b22&ring=7c3aed&fire=06b6d4&currStreakLabel=7c3aed&sideLabels=94a3b8&dates=475569&stroke=7c3aed20)](https://git.io/streak-stats)
 
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dinsara0611&theme=tokyo-night&hide_border=true&bg_color=161b22&color=06b6d4&line=7c3aed&point=f472b6&area=true&area_color=7c3aed" width="100%"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=dinsara0611&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
