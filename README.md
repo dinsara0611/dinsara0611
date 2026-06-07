@@ -1,70 +1,54 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:06b6d4,100:f472b6&height=200&section=header&text=Dinsara%20Semitha&fontSize=58&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Mobile%20App%20Developer%20%C2%B7%20AI%20Content%20Creator&descAlignY=58&descSize=15&animation=fadeIn&fontColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Dinsara%20Semitha&fontSize=52&fontAlignY=40&desc=Software%20Engineer%20%7C%20Mobile%20Developer%20%7C%20Sri%20Lanka&descAlignY=62&descSize=16&fontColor=ffffff" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&width=700&lines=Flutter+%26+Dart+Developer;Firebase+%2B+SQLite+Architect;On-Device+AI+with+Google+ML+Kit;Digital+Content+%26+AI+Creator;Open+to+Internships+%26+Collabs)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=600&lines=Flutter+%26+Dart+Mobile+Developer;Firebase+Architecture+Expert;On-Device+AI+%26+ML+Kit+Specialist;AI-Driven+Content+Pipeline+Builder;BSc+Software+Engineering+%40+NSBM)](https://git.io/typing-svg)
 
 <br/>
 
-<a href="mailto:dinsarasemitha06@gmail.com"><img src="https://img.shields.io/badge/Gmail-161b22?style=for-the-badge&logo=gmail&logoColor=fca5a5&labelColor=161b22"/></a>&nbsp;
-<a href="https://www.linkedin.com/in/dinsara-semitha-6a310027b/"><img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=93c5fd&labelColor=161b22"/></a>&nbsp;
-<a href="https://github.com/dinsara0611"><img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=c9d1d9&labelColor=161b22"/></a>&nbsp;
-<a href="https://www.fiverr.com/s/8zkvwdV"><img src="https://img.shields.io/badge/Fiverr-161b22?style=for-the-badge&logo=fiverr&logoColor=6ee7b7&labelColor=161b22"/></a>&nbsp;
-<a href="https://www.facebook.com/dinsara.semitha/"><img src="https://img.shields.io/badge/Facebook-161b22?style=for-the-badge&logo=facebook&logoColor=93c5fd&labelColor=161b22"/></a>
+<a href="mailto:dinsarasemitha06@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/dinsara-semitha-6a310027b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
+<a href="https://github.com/dinsara0611"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>&nbsp;
+<a href="https://www.fiverr.com/s/8zkvwdV"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=flat-square&logo=fiverr&logoColor=white"/></a>&nbsp;
+<a href="https://www.facebook.com/dinsara.semitha/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=dinsara0611&style=for-the-badge&color=7c3aed&labelColor=0d1117&label=PROFILE+VIEWS"/>&nbsp;
-<img src="https://img.shields.io/badge/STATUS-Available%20for%20Work-059669?style=for-the-badge&labelColor=0d1117"/>&nbsp;
-<img src="https://img.shields.io/badge/NSBM-Green%20University-16a34a?style=for-the-badge&labelColor=0d1117"/>
+![Profile Views](https://komarev.com/ghpvc/?username=dinsara0611&style=flat-square&color=7c3aed&label=Profile+Views)&nbsp;
+![Status](https://img.shields.io/badge/Status-Available%20for%20Work-22c55e?style=flat-square)&nbsp;
+![University](https://img.shields.io/badge/NSBM-Green%20University-16a34a?style=flat-square&logo=google-scholar&logoColor=white)
 
 </div>
 
+<br/>
+
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-<table>
-<tr>
-<td width="50%">
+```yaml
+name        : Dinsara Semitha
+age         : 19
+role        : Software Engineer · Mobile App Developer
+university  : NSBM Green University, Sri Lanka
+year        : 3rd Year — BSc Software Engineering
+location    : Colombo / Meegoda, Sri Lanka
 
-**Identity**
-```
-Name     →  Dinsara Semitha
-Age      →  19
-Location →  Colombo / Meegoda, Sri Lanka
-```
+specializes :
+  - Flutter & Dart mobile development
+  - On-device AI & OCR via Google ML Kit
+  - Real-time Firebase architectures
+  - AI-driven content pipelines
 
-**University**
-```
-NSBM Green University
-3rd Year — BSc Software Engineering
-Focus: Mobile systems & distributed architecture
-```
+interests   :
+  - Custom PC building (ASUS & AMD)
+  - Gaming — Rocket League & Action-Adventure
+  - Content channels — LionTen LK · LionReel · LionTunes
 
-</td>
-<td width="50%">
-
-**Specializes in**
+open_to     : Internships · Collaborations · Freelance
 ```
-> Flutter & Dart mobile development
-> On-device AI & OCR (Google ML Kit)
-> Real-time Firebase architectures
-> AI-driven content pipelines
-```
-
-**Beyond code**
-```
-> Custom PC building (ASUS & AMD)
-> Gaming: Rocket League & Action-Adventure
-> Channels: LionTen LK / LionReel / LionTunes
-```
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -72,25 +56,15 @@ Focus: Mobile systems & distributed architecture
 
 <div align="center">
 
-**Mobile & Languages**
-
-![Flutter](https://img.shields.io/badge/Flutter-0c2a4a?style=for-the-badge&logo=flutter&logoColor=60a5fa)
-![Dart](https://img.shields.io/badge/Dart-0c2a4a?style=for-the-badge&logo=dart&logoColor=93c5fd)
-![Python](https://img.shields.io/badge/Python-1a2a0c?style=for-the-badge&logo=python&logoColor=86efac)
-![Git](https://img.shields.io/badge/Git-2a0c0c?style=for-the-badge&logo=git&logoColor=fca5a5)
-
-**Backend & Databases**
-
-![Firebase](https://img.shields.io/badge/Firebase-2d1a00?style=for-the-badge&logo=firebase&logoColor=fbbf24)
-![SQLite](https://img.shields.io/badge/SQLite-1a1a3a?style=for-the-badge&logo=sqlite&logoColor=a78bfa)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f172a?style=for-the-badge&logo=postgresql&logoColor=c4b5fd)
-
-**Design & Tools**
-
-![Figma](https://img.shields.io/badge/Figma-2a0a1a?style=for-the-badge&logo=figma&logoColor=f9a8d4)
-![Canva](https://img.shields.io/badge/Canva-002a2a?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MCA1MCI+PHBhdGggZmlsbD0iIzVlZWFkNCIgZD0iTTI1IDVDMTQgNSA1IDE0IDUgMjVzOSAyMCAyMCAyMCAyMC05IDIwLTIwUzM2IDUgMjUgNXptMCAzNmMtOC44IDAtMTYtNy4yLTE2LTE2UzE2LjIgOSAyNSA5czE2IDcuMiAxNiAxNi03LjIgMTYtMTYgMTZ6bTYtMjJjMCAyLjItMS44IDQtNCA0cy00LTEuOC00LTQgMS44LTQgNC00IDQgMS44IDQgNHoiLz48L3N2Zz4=&logoColor=5eead4)
-![WordPress](https://img.shields.io/badge/WordPress-0c2030?style=for-the-badge&logo=wordpress&logoColor=67e8f9)
-![Google ML Kit](https://img.shields.io/badge/Google_ML_Kit-0a2a1a?style=for-the-badge&logo=google&logoColor=34d399)
+| Domain | Technologies |
+|:---|:---|
+| 📱 Mobile | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white) |
+| 🔥 Backend | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=fastapi&logoColor=white) |
+| 🗄️ Database | ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
+| 🤖 AI & ML | ![Google ML Kit](https://img.shields.io/badge/Google_ML_Kit-4285F4?style=flat-square&logo=google&logoColor=white) ![Google Veo](https://img.shields.io/badge/Google_Veo_3-34A853?style=flat-square&logo=google&logoColor=white) |
+| 🎨 Design | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white) |
+| ⚙️ Tools | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
+| 🌐 Web | ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
 
 </div>
 
@@ -100,44 +74,48 @@ Focus: Mobile systems & distributed architecture
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### Bus Lanka
-**Smart Public Transit Platform**
+### 🚌 Bus Lanka
+> Smart Public Transit Platform
 
-A comprehensive **three-module** mobile transit app with real-time dedicated architectures for Admins, Drivers, and Passengers across Sri Lanka.
+Three-module mobile app for **Admins**, **Drivers** and **Passengers** with real-time tracking and Firebase architecture across Sri Lanka.
 
-![Flutter](https://img.shields.io/badge/Flutter-0c2a4a?style=flat-square&logo=flutter&logoColor=60a5fa)
-![Firebase](https://img.shields.io/badge/Firebase-2d1a00?style=flat-square&logo=firebase&logoColor=fbbf24)
-![Dart](https://img.shields.io/badge/Dart-0c2a4a?style=flat-square&logo=dart&logoColor=93c5fd)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
-**Role:** Lead Developer
+> 🧑‍💼 Role: **Lead Developer**
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### Wira App
-**Smart Expense Intelligence**
+### 💰 Wira App
+> Smart Expense Intelligence
 
-Offline-capable expense tracker with a **Behavioral Insights Engine** and automated OCR receipt scanning powered by Google ML Kit.
+Offline-first expense tracker with a **Behavioral Insights Engine** and automated OCR receipt scanning via Google ML Kit.
 
-![Flutter](https://img.shields.io/badge/Flutter-0c2a4a?style=flat-square&logo=flutter&logoColor=60a5fa)
-![SQLite](https://img.shields.io/badge/SQLite-1a1a3a?style=flat-square&logo=sqlite&logoColor=a78bfa)
-![ML Kit](https://img.shields.io/badge/ML_Kit-0a2a1a?style=flat-square&logo=google&logoColor=34d399)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![ML Kit](https://img.shields.io/badge/ML_Kit-4285F4?style=flat-square&logo=google&logoColor=white)
 
-**Role:** Developer / Architect
+> 🧑‍💼 Role: **Developer / Architect**
 
 </td>
 </tr>
 <tr>
-<td colspan="2">
+<td colspan="2" valign="top">
 
-### Digital Branding — Mustard Seeds International
-Production-ready web templates and custom logo/branding assets developed during a specialized internship. Improved client visual identity through cohesive design systems.
+### 🎨 Digital Branding — Mustard Seeds International
+> Web Design & Brand Identity
 
-![WordPress](https://img.shields.io/badge/WordPress-0c2030?style=flat-square&logo=wordpress&logoColor=67e8f9)
+Production-ready web templates and custom logo/branding assets during a specialized internship. Delivered cohesive design systems that improved client visual identity.
+
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
-&nbsp; **Role:** Web Design Trainee Intern
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+> 🧑‍💼 Role: **Web Design Trainee Intern**
 
 </td>
 </tr>
@@ -148,21 +126,23 @@ Production-ready web templates and custom logo/branding assets developed during 
 ## 💼 Experience
 
 ```
-Web Design Trainee Intern                          [ 2024 ]
-Mustard Seeds International
-├── Developed production-ready web templates using WordPress
-└── Designed customized branding assets & logos for clients
-
-Digital Content & Asset Creator                   [ Ongoing ]
-Freelance / LionTen LK · LionReel · LionTunes
-├── AI-generated assets submitted to Adobe Stock & Wirestock
-├── Manage branding, automation & strategy for 3 channels
-└── Pipelines: Make · CapCut · OBS Studio · Google Veo 3
-
-BSc Software Engineering — 3rd Year               [ Present ]
-NSBM Green University, Sri Lanka
-├── Focus: Mobile systems & distributed architecture
-└── Projects: Bus Lanka · Wira App (production-grade)
+┌─────────────────────────────────────────────────────────────────┐
+│  Web Design Trainee Intern                         [ 2024 ]     │
+│  Mustard Seeds International                                     │
+│  ├── Developed production-ready web templates using WordPress    │
+│  └── Designed custom branding assets & logos for clients        │
+├─────────────────────────────────────────────────────────────────┤
+│  Digital Content & Asset Creator                  [ Ongoing ]   │
+│  Freelance — LionTen LK · LionReel · LionTunes                  │
+│  ├── AI-generated assets on Adobe Stock & Wirestock             │
+│  ├── Manage branding, automation & strategy for 3 channels      │
+│  └── Tools: Make · CapCut · OBS Studio · Google Veo 3           │
+├─────────────────────────────────────────────────────────────────┤
+│  BSc Software Engineering — 3rd Year              [ Present ]   │
+│  NSBM Green University, Sri Lanka                               │
+│  ├── Focus: Mobile systems & distributed architecture           │
+│  └── Projects: Bus Lanka · Wira App                             │
+└─────────────────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -171,11 +151,11 @@ NSBM Green University, Sri Lanka
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=dinsara0611&theme=tokyonight&hide_border=true&background=161b22&ring=7c3aed&fire=06b6d4&currStreakLabel=7c3aed&sideLabels=94a3b8&dates=475569&stroke=7c3aed20)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=dinsara0611&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=7c3aed&sideLabels=94a3b8&dates=475569)](https://git.io/streak-stats)
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dinsara0611&theme=tokyo-night&hide_border=true&bg_color=161b22&color=06b6d4&line=7c3aed&point=f472b6&area=true&area_color=7c3aed" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dinsara0611&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f9a8d4&area=true&area_color=7c3aed" width="100%"/>
 
 </div>
 
@@ -183,17 +163,18 @@ NSBM Green University, Sri Lanka
 
 <div align="center">
 
-### Let's Build Something Together
+### 🤝 Open to Work — Let's Connect
 
-[![Email](https://img.shields.io/badge/Shoot%20Me%20An%20Email-161b22?style=for-the-badge&logo=gmail&logoColor=fca5a5)](mailto:dinsarasemitha06@gmail.com)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=93c5fd)](https://www.linkedin.com/in/dinsara-semitha-6a310027b/)
-
-<br/>
-
-*"Build it functional, make it clean, and always optimize the user experience."*
+[![Email](https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dinsarasemitha06@gmail.com)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinsara-semitha-6a310027b/)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dinsara0611)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:06b6d4,100:f472b6&height=120&section=footer" width="100%"/>
+> *"Build it functional, make it clean, and always optimize the user experience."*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
 </div>
