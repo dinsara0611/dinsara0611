@@ -4,15 +4,15 @@
   
   **3rd-Year Software Engineering Undergrad @ NSBM Green University 🇱🇰**
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=039BE5&center=true&vCenter=true&width=600&lines=Mobile+App+Developer+(Flutter);Building+Intelligent+Backend+Systems;Custom+PC+Hardware+Enthusiast;Digital+Asset+%26+Content+Creator)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=039BE5&center=true&vCenter=true&width=600&lines=Mobile+Development;Website+Development;Frontend+Development;Backend+Development;Graphic+Design)](https://git.io/typing-svg)
 
   <p align="center">
-    <a href="mailto:dinsarasemitha06@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://www.linkedin.com/in/dinsara-semitha-6a310027b/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://www.fiverr.com/s/8zkvwdV"><img src="https://img.shields.io/badge/FIVERR-00B22D?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" /></a>
+    <a href="mailto:dinsarasemitha06@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=plastic&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://www.linkedin.com/in/dinsara-semitha-6a310027b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://www.fiverr.com/s/8zkvwdV"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=plastic&logo=fiverr&logoColor=white" alt="Fiverr" /></a>
   </p>
-  
-  <img src="https://komarev.com/ghpvc/?username=dinsara0611&style=for-the-badge&color=blue&label=PROFILE+VIEWS" alt="Profile Views" />
+
+  <img src="https://komarev.com/ghpvc/?username=dinsara0611&style=plastic&color=blue&label=Profile+Views" alt="Profile Views" />
 
 </div>
 
@@ -28,19 +28,18 @@ When I'm not writing code, I'm building high-performance ASUS/AMD custom PCs, ga
 
 ### 💻 My Tech Arsenal
 
-**Mobile Architecture & Databases** <br>
-![Flutter](https://img.shields.io/badge/FLUTTER-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/DART-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/FIREBASE-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
-![SQL](https://img.shields.io/badge/SQLITE-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+**Mobile, Frontend & Backend Architecture** <br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,sqlite,postgres,github&perline=8" />
+</a>
+
+<br><br>
 
 **Design, Media & Hardware** <br>
-![Canva](https://img.shields.io/badge/CANVA-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![CapCut](https://img.shields.io/badge/CAPCUT-%23000000.svg?style=for-the-badge&logo=CapCut&logoColor=white)
-![OBS Studio](https://img.shields.io/badge/OBS_STUDIO-%23302E31.svg?style=for-the-badge&logo=obs-studio&logoColor=white)
-![AMD](https://img.shields.io/badge/AMD-%23ED1C24.svg?style=for-the-badge&logo=amd&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
+![CapCut](https://img.shields.io/badge/CapCut-%23000000.svg?style=plastic&logo=CapCut&logoColor=white)
+![OBS Studio](https://img.shields.io/badge/OBS_Studio-%23302E31.svg?style=plastic&logo=obs-studio&logoColor=white)
+![AMD](https://img.shields.io/badge/AMD-%23ED1C24.svg?style=plastic&logo=amd&logoColor=white)
 
 ---
 
@@ -57,13 +56,9 @@ When I'm not writing code, I'm building high-performance ASUS/AMD custom PCs, ga
 ### 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/dinsara0611">
-    <img src="https://github-readme-stats.vercel.app/api?username=dinsara0611&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="Dinsara's GitHub Stats" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=dinsara0611&show_icons=true&theme=tokyonight" alt="Dinsara's GitHub Stats" />
   <br><br>
-  <a href="https://github.com/dinsara0611">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinsara0611&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinsara0611&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
 <br>
